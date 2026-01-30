@@ -13,7 +13,7 @@ I love transforming data into insights and building interactive web applications
 An **AI-powered career guidance tool** providing personalized advice using OpenAI and Supabase.  
 **Tech Stack:**  
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![React](https://img.shields.io/badge/React-blue?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)  
-**Highlights:** Full-stack SPA with server-side rendering, interactive UI, and real-time AI suggestions.  
+**Highlights:** Full-stack SPA with server-side rendering, interactive UI, and real-time AI suggestions.
 
 ---
 
@@ -21,7 +21,7 @@ An **AI-powered career guidance tool** providing personalized advice using OpenA
 My **personal portfolio website** showcasing skills, projects, and experiences, integrated with Azure OpenAI for interactive demos.  
 **Tech Stack:**  
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![React](https://img.shields.io/badge/React-blue?logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)  
-**Highlights:** Dynamic full-stack site with project showcases and AI-enhanced components.  
+**Highlights:** Dynamic full-stack site with project showcases and AI-enhanced components.
 
 ---
 
@@ -29,7 +29,7 @@ My **personal portfolio website** showcasing skills, projects, and experiences, 
 A **machine learning project** predicting if an individual's income exceeds $50K using the UCI Adult dataset.  
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)  
-**Highlights:** Complete ML pipeline with preprocessing, model training, evaluation, and hyperparameter tuning.  
+**Highlights:** Complete ML pipeline with preprocessing, model training, evaluation, and hyperparameter tuning.
 
 ---
 
@@ -53,7 +53,7 @@ A **secure user authentication system** built with Django.
 
 ## 📫 Connect with Me
 
-[Portfolio Website](https://portfolio-harsh-parmar.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/711-parmar-harsh/) • GitHub Email: `ParmarHarsh@users.noreply.github.com`  
+[Portfolio Website](https://portfolio-harsh-parmar.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/711-parmar-harsh/) • GitHub Email: `ParmarHarsh@users.noreply.github.com`
 
 ---
 
