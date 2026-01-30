@@ -1,49 +1,20 @@
 # 👋 Hi, I'm Harsh Parmar
 
-![GitHub followers](https://img.shields.io/github/followers/ParmarHarsh?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/ParmarHarsh?style=social) 
-![GitHub Repo Count](https://img.shields.io/github/repo-count/ParmarHarsh)
+![GitHub followers](https://img.shields.io/github/followers/ParmarHarsh?style=social) ![GitHub stars](https://img.shields.io/github/stars/ParmarHarsh?style=social) ![GitHub Repo Count](https://img.shields.io/github/repo-count/ParmarHarsh) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParmarHarsh&layout=compact&theme=radical)
 
-I'm a **Computer Science graduate from York University**, passionate about **data analytics, machine learning, and web development**.  
-I love building projects that turn data into actionable insights and engaging web experiences.  
+I'm a **Computer Science graduate from York University** passionate about **Data Analytics, Machine Learning, and Web Development**.  
+I turn data into insights, build dynamic web applications, and create tools that solve real problems.
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-### [AI Career Copilot](https://github.com/ParmarHarsh/AI-Career-Copilot)  
-🚀 AI-powered career guidance platform using OpenAI + Supabase  
-**Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![React](https://img.shields.io/badge/React-blue?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)  
-**Highlights:** Full-stack SPA, server-side rendering, interactive AI suggestions  
-![AI Career Copilot](https://via.placeholder.com/600x250?text=AI+Career+Copilot+Preview)
-
----
-
-### [PortPal](https://github.com/ParmarHarsh/Portfolio-Harsh-Parmar)  
-🌐 My personal portfolio website integrated with Azure OpenAI  
-**Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![React](https://img.shields.io/badge/React-blue?logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)  
-**Highlights:** Dynamic full-stack site with project showcases and AI-powered demos  
-![PortPal](https://via.placeholder.com/600x250?text=PortPal+Preview)
-
----
-
-### [Income Prediction using Census Data](https://github.com/ParmarHarsh/Income-Prediction-using-Census-Data)  
-📊 Machine learning project predicting income >50K using UCI Adult dataset  
-**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)  
-**Highlights:** Full ML pipeline: preprocessing, model training, evaluation, hyperparameter tuning  
-![Income Prediction](https://via.placeholder.com/600x250?text=Income+Prediction+Preview)
-
----
-
-### [Authenticator](https://github.com/ParmarHarsh/Authenticator)  
-🔐 Secure login & registration system using Django  
-**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![Django](https://img.shields.io/badge/Django-092E20?logo=django) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)  
-**Highlights:** Login/registration with email verification, session management, and form validation  
-![Authenticator](https://via.placeholder.com/600x250?text=Authenticator+Preview)
-
-</div>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [AI Career Copilot](https://github.com/ParmarHarsh/AI-Career-Copilot) | AI-powered career guidance providing personalized advice via OpenAI and Supabase. | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![React](https://img.shields.io/badge/React-blue?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase) |
+| [PortPal](https://github.com/ParmarHarsh/Portfolio-Harsh-Parmar) | Personal portfolio showcasing skills, projects, and experiences; integrated with Azure OpenAI. | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![React](https://img.shields.io/badge/React-blue?logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript) |
+| [Income Prediction using Census Data](https://github.com/ParmarHarsh/Income-Prediction-using-Census-Data) | ML project predicting if an individual's income exceeds $50K using the UCI Adult dataset. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter) |
+| [Authenticator](https://github.com/ParmarHarsh/Authenticator) | Secure login system with email verification and session management using Django. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![Django](https://img.shields.io/badge/Django-092E20?logo=django) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript) |
 
 ---
 
@@ -59,8 +30,8 @@ I love building projects that turn data into actionable insights and engaging we
 
 ## 📫 Connect with Me
 
-[🌐 Portfolio Website](https://portfolio-harsh-parmar.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/711-parmar-harsh/) • GitHub Email: `ParmarHarsh@users.noreply.github.com`
+[Portfolio Website](https://portfolio-harsh-parmar.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/711-parmar-harsh/) • GitHub Email: `ParmarHarsh@users.noreply.github.com`
 
 ---
 
-⭐ Thank you for visiting! I’m always open to **collaboration and learning new technologies**.
+⭐ Thank you for visiting my profile! I’m always open to **collaboration and learning new technologies**.
