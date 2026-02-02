@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Harsh Parmar
 
-![GitHub followers](https://img.shields.io/github/followers/ParmarHarsh?style=social) ![GitHub stars](https://img.shields.io/github/stars/ParmarHarsh?style=social) ![GitHub Repo Count](https://img.shields.io/github/repo-count/ParmarHarsh)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ParmarHarsh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ParmarHarsh?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ParmarHarsh?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-count/ParmarHarsh" alt="Repositories" />
+</p>
 
 I'm a **Computer Science graduate from York University** passionate about **Data Analytics, Machine Learning, and Web Development**.  
 I turn data into insights, build dynamic web applications, and create tools that solve real problems.
