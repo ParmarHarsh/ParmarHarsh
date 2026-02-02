@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harsh Parmar
 
-![GitHub followers](https://img.shields.io/github/followers/ParmarHarsh?style=social) ![GitHub stars](https://img.shields.io/github/stars/ParmarHarsh?style=social) ![GitHub Repo Count](https://img.shields.io/github/repo-count/ParmarHarsh) 
+![GitHub followers](https://img.shields.io/github/followers/ParmarHarsh?style=social) ![GitHub stars](https://img.shields.io/github/stars/ParmarHarsh?style=social) ![GitHub Repo Count](https://img.shields.io/github/repo-count/ParmarHarsh)
 
 I'm a **Computer Science graduate from York University** passionate about **Data Analytics, Machine Learning, and Web Development**.  
 I turn data into insights, build dynamic web applications, and create tools that solve real problems.
